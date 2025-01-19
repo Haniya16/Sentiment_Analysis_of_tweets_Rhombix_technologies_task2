@@ -1,0 +1,11 @@
+Tweet,Predicted Sentiment
+I absolutely love this product!,Positive
+This is the worst experience ever.,Negative
+"I'm not sure if this is worth it, still thinking about it. it is good for me or bad",Neutral
+Not sure how I feel about this.,Negative
+The service was good but could be better.,Positive
+"This movie has an average storyline, not too good, not too bad.",Neutral
+The new update is fantastic! I'm really enjoying the improvements.,Positive
+"Terrible customer service, I am so disappointed!",Negative
+The event starts at 10 AM tomorrow. Check your schedule.,Positive
+"Just an ordinary day, nothing special to share nothing good or bad.",Neutral
